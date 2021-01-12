@@ -1,0 +1,11 @@
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.deps.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.runtimeconfig.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.runtimeconfig.dev.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\bin\Debug\netcoreapp2.2\Singleton.pdb
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.csprojAssemblyReference.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.csproj.CoreCompileInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.AssemblyInfoInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.AssemblyInfo.cs
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Singleton\Singleton\obj\Debug\netcoreapp2.2\Singleton.pdb

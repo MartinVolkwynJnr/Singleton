@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\Singleton\\Singleton\\Singleton.csproj": {}
+  },
+  "projects": {
+    "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\Singleton\\Singleton\\Singleton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\Singleton\\Singleton\\Singleton.csproj",
+        "projectName": "Singleton",
+        "projectPath": "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\Singleton\\Singleton\\Singleton.csproj",
+        "packagesPath": "C:\\Users\\mvolkwyn247\\.nuget\\packages\\",
+        "outputPath": "E:\\NetCSharpDesignPatterns\\DesignPatternProjects_Martin\\Singleton\\Singleton\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mvolkwyn247\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Local Nuget Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://pricing-nuget.sportingsolutions.com/nuget/feed/": {},
+          "http://pricing.tooling.he.gb.sportingindex.com/Nuget/feed/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
